@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Introvert
 
-[![nandaditra's github stats](https://github-readme-stats.vercel.app/api?username=nandaditra&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandaditra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandaditra&layout=compact&langs_count=10&theme=dracula&hide=javascript)](https://github.com/anuraghazra/github-readme-stats) 
+[![hackntra10's github stats](https://github-readme-stats.vercel.app/api?username=hackntra10&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackntra10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackntra10&layout=compact&langs_count=10&theme=dracula&hide=javascript)](https://github.com/anuraghazra/github-readme-stats) 
